@@ -1,13 +1,12 @@
-[
+{
  "estudiantes": [
-    {"Id":1,"documento":1017000123,"usuario":"prueba.drai","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW "},
-    {"Id":2,"documento":1017000124,"usuario":"drai.activo","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW "},
-    {"Id":3,"documento":1017000125,"usuario":"drai.activo2","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW "},
-    {"Id":4,"documento":1017000126,"usuario":"drai.activo3","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW "},
-    {"Id":5,"documento":1017000123,"usuario":"drai.inactivo","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW "},
-    {"Id":6,"documento":1017000124,"usuario":"drai.inactivo2","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW "},
-    {"Id":7,"documento":1017000125,"usuario":"drai.desertor","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW "},
-    {"Id":8,"documento":1017000126,"usuario":"drai.desertor2","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW "}
+    {"id":1,"documento":1017000123,"usuario":"prueba.drai","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW"},
+    {"id":2,"documento":1017000124,"usuario":"drai.activo","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW"},
+    {"id":3,"documento":1017000125,"usuario":"drai.activo2","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW"},
+    {"id":4,"documento":1017000126,"usuario":"drai.activo3","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW"},
+    {"id":5,"documento":1017000123,"usuario":"drai.inactivo","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW"},
+    {"id":6,"documento":1017000124,"usuario":"drai.inactivo2","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW"},
+    {"id":7,"documento":1017000125,"usuario":"drai.desertor","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW"},
+    {"id":8,"documento":1017000126,"usuario":"drai.desertor2","contraseña":"$2y$12$osUN3ZvyZlX1jD2KJo2dyOvsV5Erb6WtaNtFb9fLxsGQOtHSxfQxW"}
 ]
-
-]
+}
